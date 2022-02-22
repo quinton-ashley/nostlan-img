@@ -2,22 +2,6 @@
 
 Graphic design assets in this repository are used by the [Nostlan](https://github.com/quinton-ashley/nostlan) game launcher.
 
-The skeuomorphic Open Game Box Menu is pretty much complete!
-
-| sys     | %    | images needed |
-| ------- | ---- | ------------- |
-| 3ds     | 75%  | manual        |
-| ds      | 100% |               |
-| gba     | 100% |               |
-| gcn     | 100% |               |
-| ps2     | 75%  | manual        |
-| ps3     | 75%  | manual        |
-| snes    | 100% |               |
-| switch  | 75%  | manual        |
-| wii     | 75%  | manual        |
-| wiiu    | 100% |               |
-| xbox360 | 100% |               |
-
 # Why did you do this?
 
 One of my goals for the Nostlan game launcher project was to create a physical object based UI (aka skeuomorphic UI) for archival and nostalgic purposes. For example, the open box menu for Paper Mario: The Thousand Year Door, a Gamecube game, looks like this:
